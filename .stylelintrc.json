@@ -1,0 +1,11 @@
+{
+	"extends": "stylelint-config-standard",
+	"rules": {
+		"color-no-invalid-hex": true,
+		"color-hex-case": "upper",
+		"max-empty-lines": 1,
+		"declaration-colon-space-after": "always",
+		"declaration-colon-space-before": "never",
+		"string-no-newline": true
+	}
+}
