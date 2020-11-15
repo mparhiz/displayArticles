@@ -26,4 +26,4 @@ Runs the stylelint to check all scss files as pre set rules in the `.stylelintrc
 
 ## Live Application
 
-To see the application [demo]([![Netlify Status](https://api.netlify.com/api/v1/badges/30941936-f455-4660-8d3c-e4796bc5c27f/deploy-status)](https://app.netlify.com/sites/clever-hoover-8f9131/deploys)) I have used the [Netlify](https://www.netlify.com/).
+To see the application [demo](https://5fb0f1ec048ac3fbe9fca3fe--clever-hoover-8f9131.netlify.app/) I have used the [Netlify](https://www.netlify.com/).
