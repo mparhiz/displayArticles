@@ -1,12 +1,25 @@
 @import "/src/variables.scss";
 
-.title {
-	color: #232B4B;
-}
+.card {
+	height: 300px;
 
-.cardContent {
-	font-family: $font;
-	font-size: $cardFontSize;
+	.card-title {
+		color: #232B4B;
+	}
+
+	.card-content {
+		font-family: $font;
+		font-size: $cardFontSize;
+		overflow: hidden;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+	}
+
+	.card-button {
+		position: absolute;
+		bottom: 15px;
+	}
 }
 
 .bgc-0 {
