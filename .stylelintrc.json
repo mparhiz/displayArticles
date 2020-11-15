@@ -6,6 +6,7 @@
 		"max-empty-lines": 1,
 		"declaration-colon-space-after": "always",
 		"declaration-colon-space-before": "never",
-		"string-no-newline": true
+		"string-no-newline": true,
+		"indentation": "tab"
 	}
 }
