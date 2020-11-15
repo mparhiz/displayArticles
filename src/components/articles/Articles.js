@@ -1,7 +1,7 @@
 import React from 'react';
 import './Articles.scss';
 import Article from '../article/Article';
-import articlesData from '../mockData/articlesData'
+import articlesData from '/src/mockData/articlesData'
 import { CardColumns } from 'react-bootstrap';
 
 const Articles = (props) => {

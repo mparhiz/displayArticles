@@ -15,7 +15,7 @@ const App = () => {
 		<Container className="p-1">
 			<Jumbotron>
 				<h3 className="header">Related Articles</h3>
-				<p>
+				<p className="content">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

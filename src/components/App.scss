@@ -5,6 +5,11 @@
 	text-align: left;
 }
 
+.content {
+	font-family: $font;
+	font-size: $fontSize;
+}
+
 .btn-alignment {
 	display: flex;
 	justify-content: center;

@@ -11,8 +11,8 @@ const Article = (props) => {
 			<Card.Body>
 				<Card.Title className="title">{article.title}</Card.Title>
 				<Card.Subtitle className="mb-2 text-muted">{article.date}</Card.Subtitle>
-				<Card.Text>{article.body}</Card.Text>
-				{isDisplayDesc && <Card.Text>{article.description}</Card.Text>}
+				<Card.Text className="cardContent">{article.body}</Card.Text>
+				{isDisplayDesc && <Card.Text className="cardContent">{article.description}</Card.Text>}
 				<Button
 					variant="outline-danger"
 					size="sm"
